@@ -4,4 +4,4 @@
 💞️ I’m looking to collaborate on web and mobile application projects, UI/UX design, and software engineering solutions.  
 📫 How to reach me: seneshperera2000@gmail.com  
 😄 Pronouns: He/Him  
-⚡ Fun fact: I love designing UI/UX interfaces and have redesigned the Uber website UI!  
+⚡ Fun fact: I love designing UI/UX interfaces!  
