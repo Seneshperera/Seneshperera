@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Senesh Sanchana Perera
-### Software Engineer Intern | Undergraduate at ITUM, University of Moratuwa
+### Software Engineer Intern | Undergraduate at University of Moratuwa
 
 <p align="left">
 <img src="https://img.shields.io/badge/-Full--Stack-007ACC?style=flat-square&logo=react&logoColor=white" />
@@ -11,10 +11,8 @@
 
 ### 🚀 About Me
 - 🔭 **Currently working at:** Spark Global Solutions as a Developer Intern.
-- 🎓 **Education:** Final year undergraduate at ITUM (University of Moratuwa).
+- 🎓 **Education:** Final year undergraduate at University of Moratuwa.
 - 💡 **Passion:** Building scalable web architectures and intuitive user experiences.
-- 🛠️ **Current Projects:** Developing **LankaSuper** (a WeChat-style super app) and **PlayHunt** browser extension.
-
 ---
 
 ### 💻 My Tech Stack
