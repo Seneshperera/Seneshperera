@@ -30,7 +30,7 @@
 ### 📂 Featured Projects
 * **[PartHub LK](https://github.com/your-username/parthub)** - Multi-brand motor spare parts marketplace.
 * **[JustPark.lk](https://github.com/your-username/justpark)** - IoT-based smart parking solution for urban areas.
-* **[HasthiRaksha](https://github.com/your-username/hasthiraksha)** - Wildlife alert system for human-elephant conflict mitigation.
+* **[HasthiRaksha](https://github.com/Seneshperera/MerchHubLK.git)** - E Commerce Shopify style website for creators to sell their merchs.
 
 ---
 
